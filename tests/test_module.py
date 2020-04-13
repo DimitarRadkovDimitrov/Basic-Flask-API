@@ -4,3 +4,5 @@ import pytest
 def test_func_fast_pass():
     pass
 
+def test_pass_two():
+    pass
